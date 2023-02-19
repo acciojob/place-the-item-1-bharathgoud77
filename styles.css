@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.flexbox{
+.holder{
 	display: flex;
 	font-size: 50px;
 	flex-wrap: wrap;
